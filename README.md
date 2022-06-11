@@ -13,7 +13,7 @@
   <img align="center" alt="Ewerton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ewerton-Node_Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
-   <img align="center" alt="Ewerton-Java" height="30" width="40" src="[https://cdn-icons-png.flaticon.com/512/919/919825.png](https://cdn-icons-png.flaticon.com/512/226/226777.png)">
+   <img align="center" alt="Ewerton-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
   
   
