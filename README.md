@@ -12,7 +12,7 @@
   <img align="center" alt="Ewerton-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ewerton-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ewerton-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ewerton-Java" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+   <img align="center" alt="Ewerton-Java" height="30" width="50" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png">
 </div>
   
   
