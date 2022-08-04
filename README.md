@@ -12,8 +12,8 @@
   <img align="center" alt="Ewerton-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ewerton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ewerton-REACT" height="30" width="40" src="https://flyclipart.com/thumb2/js-logo-react-react-js-icon-221717.png">
-  <img align="center" alt="Ewerton-GITHUB" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+   <img align="center" alt="Ewerton-REACT" height="30" width="50" src="[https://flyclipart.com/thumb2/js-logo-react-react-js-icon-221717.png](https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png)">
+  <img align="center" alt="Ewerton-GITHUB" height="30" width="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div>
   
   
