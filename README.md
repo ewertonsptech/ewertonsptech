@@ -12,7 +12,7 @@
   <img align="center" alt="Ewerton-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ewerton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ewerton-REACT" height="30" width="40" src="[[https://i.pinimg.com/originals/f3/47/70/f34770503b90f26ea389f557500ff825.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHILyE1FrnaZB3Y4jJ9_3njvV1t3t-EvkIq1VjcSqQQ&s)](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)">
+   <img align="center" alt="Ewerton-REACT" height="30" width="40" src="[[[https://i.pinimg.com/originals/f3/47/70/f34770503b90f26ea389f557500ff825.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHILyE1FrnaZB3Y4jJ9_3njvV1t3t-EvkIq1VjcSqQQ&s)](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)](https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png)">
 </div>
   
   
